@@ -13,8 +13,9 @@
 
 ### **1. Moderação e Personalização de Conteúdo:**
 
-- **Serviço:** Azure Content Moderator
-- **Funcionalidades:**
+**Serviço:** Azure Content Moderator
+
+**Funcionalidades:**
 - Detecção de conteúdo impróprio (texto, imagens, vídeos)
 - Personalização de conteúdo para diferentes públicos
 - Filtragem de comentários e posts em redes sociais
@@ -22,8 +23,9 @@
 
 ### **2. Pesquisa Visual Computacional:**
 
-- **Serviço:** Azure Computer Vision
-- **Funcionalidades:**
+**Serviço:** Azure Computer Vision
+
+**Funcionalidades:**
 - Análise de imagens e vídeos
 - Extração de texto de imagens (OCR)
 - Detecção de objetos, rostos e celebridades
@@ -32,8 +34,9 @@
 
 ### **3. Processamento de Linguagem Natural:**
 
-- **Serviço:** Azure Language Understanding
-- **Funcionalidades:**
+**Serviço:** Azure Language Understanding
+
+**Funcionalidades:**
 - Análise de sentimento e opinião
 - Extração de entidades e relações
 - Resumo de texto
@@ -42,8 +45,9 @@
 
 ### **4. Mineração de Conhecimento:**
 
-- **Serviço:** Azure Machine Learning
-- **Funcionalidades:**
+**Serviço:** Azure Machine Learning
+
+**Funcionalidades:**
 - Treinamento e deploy de modelos de machine learning
 - Análise preditiva
 - Detecção de anomalias
@@ -52,8 +56,9 @@
 
 ### **5. Inteligência de Documento:**
 
-- **Serviço:** Azure Form Recognizer
-- **Funcionalidades:**
+**Serviço:** Azure Form Recognizer
+
+**Funcionalidades:**
 - Extração de dados de documentos
 - Classificação de documentos
 - Conversão de documentos para formatos digitais
@@ -62,8 +67,9 @@
 
 ### **6. IA Generativa:**
 
-- **Serviço:** Azure Bot Service
-- **Funcionalidades:**
+**Serviço:** Azure Bot Service
+
+**Funcionalidades:**
 - Criação de chatbots com inteligência artificial
 - Geração de texto e voz
 - Personalização de interações com usuários
